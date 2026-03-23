@@ -1,0 +1,21 @@
+{
+    "name": "RobotMatrix.Controller",
+    "rootNamespace": "RobotMatrix.Controller",
+    "references": [
+        "RobotMatrix.Math",
+        "IEngine",
+        "RobotMatrix.Kinematics",
+        "RobotMatrix.Instructions"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "RMLicense.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

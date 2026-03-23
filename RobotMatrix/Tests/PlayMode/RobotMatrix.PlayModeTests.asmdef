@@ -1,0 +1,28 @@
+{
+    "name": "RobotMatrix.PlayModeTests",
+    "rootNamespace": "RobotMatrix.Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "RobotMatrix.Math",
+        "IEngine",
+        "RobotMatrix.Kinematics",
+        "RobotMatrix.Controller",
+        "RobotMatrix.Interaction",
+        "RobotMatrix.Data",
+        "RobotMatrix.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,27 @@
+{
+    "name": "RobotMatrix.Runtime",
+    "rootNamespace": "RobotMatrix.Runtime",
+    "references": [
+        "RobotMatrix.Math",
+        "IEngine",
+        "RobotMatrix.Kinematics",
+        "RobotMatrix.Controller",
+        "RobotMatrix.Interaction",
+        "RobotMatrix.Data",
+        "RobotMatrix.Instructions",
+        "RMPersistence",
+        "RMRecorder",
+        "RMCollision"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "RMLicense.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

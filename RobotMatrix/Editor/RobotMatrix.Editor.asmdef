@@ -1,0 +1,30 @@
+{
+    "name": "RobotMatrix.Editor",
+    "rootNamespace": "RobotMatrix.Editor",
+    "references": [
+        "RobotMatrix.Math",
+        "IEngine",
+        "RobotMatrix.Kinematics",
+        "RobotMatrix.Controller",
+        "RobotMatrix.Interaction",
+        "RobotMatrix.Data",
+        "RobotMatrix.Runtime",
+        "RobotMatrix.Instructions",
+        "RMPersistence",
+        "RMRecorder",
+        "RMCollision"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "RMLicense.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

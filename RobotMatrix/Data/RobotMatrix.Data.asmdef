@@ -1,0 +1,17 @@
+{
+    "name": "RobotMatrix.Data",
+    "rootNamespace": "RobotMatrix.Data",
+    "references": [
+        "RobotMatrix.Math",
+        "RobotMatrix.Kinematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

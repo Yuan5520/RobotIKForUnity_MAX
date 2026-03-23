@@ -1,0 +1,19 @@
+{
+    "name": "RobotMatrix.Interaction",
+    "rootNamespace": "RobotMatrix.Interaction",
+    "references": [
+        "RobotMatrix.Math",
+        "IEngine",
+        "RobotMatrix.Kinematics",
+        "RobotMatrix.Controller"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
