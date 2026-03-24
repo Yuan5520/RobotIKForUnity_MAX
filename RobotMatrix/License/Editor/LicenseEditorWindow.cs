@@ -25,6 +25,10 @@ namespace RMLicense.Editor
             window.ShowUtility();
         }
 
+        private void OnEnable()
+        {
+        }
+
         private void OnGUI()
         {
             EditorGUILayout.Space(10);
